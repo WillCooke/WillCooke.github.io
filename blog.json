@@ -1,14 +1,9 @@
 {
     "article": [
         {
-            "title": "A New World Record",
-            "date": "1979",
-            "content" : "ELO"
-        },
-        {
-            "title": "Time",
-            "date": "1981",
-            "content" : "Electric Light Orchestra"
+            "title": "Python Voronoi Tessalation",
+            "date": "22/12/2022",
+            "content" : "The background for the website is currently a Voronoi Tesslation which was made using a simple python program. The program is very inefficiently written, since it was written quickly and is capable of producing results in an acceptable time period. The program has been uploaded to my github with in its current form, maybe in the future I will use the basic code to make something more interesting."
         }
     ]
 }
