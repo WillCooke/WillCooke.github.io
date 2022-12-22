@@ -21,7 +21,13 @@ body {
 #menu ul li a{
     display: block;
     padding: 8px;
-    background-color: aqua;
+    background-color: white;
+    text-decoration: none;
+    color: black;
+}
+#menu ul li a:hover {
+    background-color: black;
+    color:white;
 }
 
 .layout {
