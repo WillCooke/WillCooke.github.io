@@ -41,7 +41,7 @@ body {
     height:100%;
 }
 
-.blog {
+#blog {
     margin-top: 0;
     float:left;
     width:70%;
